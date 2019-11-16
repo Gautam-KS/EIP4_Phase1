@@ -20,3 +20,5 @@
 
 
 /Receptive Field/ - In CNN we stack a series of convolutional layers to get meaninfful feature representation. The receptive field of the last layer must be equal to the size of the object.   
+
+/score/ [0.04254276682498166, 0.9864]
