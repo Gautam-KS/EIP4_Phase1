@@ -1,9 +1,10 @@
->>**Explanation:**
-Overfit can arise because the state of art has 11k parameters and my model has 13k parameters. Hence I increased the dropout to achieve the learning rate.
+>**Explanation:**
 
-The learning rate in the existing model is too high to be trained in the lower number of epocs. The learning rate was experimented upon and tuned to a value of 0.0001 initially.
+>Overfit can arise because the state of art has 11k parameters and my model has 13k parameters. Hence I increased the dropout to achieve the learning rate.
 
-I have played around with various batch sizes and have arrived at the best value for my model as 128.
+>The learning rate in the existing model is too high to be trained in the lower number of epocs. The learning rate was experimented upon and tuned to a value of 0.0001 initially.
+
+>I have played around with various batch sizes and have arrived at the best value for my model as 128.
 
 
 
